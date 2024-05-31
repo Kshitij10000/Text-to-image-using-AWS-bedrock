@@ -1,0 +1,1 @@
+This application uses Paid text to images models to genrate the images from text. Two models were used 1.Amazon Titan text to image 2.Stable diffusion
